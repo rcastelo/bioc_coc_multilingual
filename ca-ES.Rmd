@@ -98,19 +98,17 @@ Aquest procediment està resumit breument [aquí](https://bioconductor.github.io
 
 ### Comitè del Codi de Conducta
 
-* (Chair) Anna Quaglieri anna.quaglieri16@gmail.com (fins a 2024) ella [EN, IT]
-* Gerry Tonkin-Hill g.tonkinhill@gmail.com (fins a 2025) ell [EN]
+* (Co-Chair) Kevin Rue-Albrecht kevinrue67@gmail.com (fins a 2026) ell [EN, IT]
+* (Co-Chair) Gerry Tonkin-Hill g.tonkinhill@gmail.com (fins a 2025) ell [EN]
 * Martín Dávila-Cervantes aldntmi@gmail.com (fins a 2025) ell [EN, FR, ES]
 * Federica Gazzelloni fede.gazzelloni@gmail.com (fins a 2025) ella [IT, EN]
-* Michael Love <michaelisaiahlove@gmail.com> (fins a 2024) ell [EN] (TAB)
-* Federico Marini <fede.maro@gmail.com> (fins a 2024) ell [EN, IT, DE]
-* Sowmya Parthiban <sowmyaparthiban@gmail.com> (fins a 2024) ella [EN, Tamil]
+* Federico Marini <fede.maro@gmail.com> (fins a 2025) ell [EN, IT, DE]
 * Shixiang Wang wangshx@shanghaitech.edu.cn (fins a 2025) ell [CN, EN]
-* Lluís Revilla <lluis.revilla@gmail.com> (fins a 2024) ell [CA, ES, EN]
-* Kevin Rue-Albrecht kevinrue67@gmail.com  (fins a 2024) ell [FR, EN] (CAB)
 * Paulina Boadiwaa Mensah pabbyboadiwaa@gmail.com (fins a 2025) ella [EN, Akan]
 * Peace Sandy peacesandy04@gmail.com (fins a 2025) ella [EN]
 * Sinmisoluwa Adesanya adesanyasinmisoluwa@gmail.com (fins a 2025) ella [EN, Yoruba]
-* (Mediadora) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) ella [ES, EN]
+* Obuli Abraham obuliabraham@gmail.com (fins a 2026) ell [EN]
+* Maria Doyle maria.doyle@ul.ie (fins a 2026) ella [EN]
+* (Síndic) Michelle Savage michellesavage.galaxy@gmail.com (Galaxy project) ella [ES, EN]
 
 [1]: https://bioc2020.bioconductor.org/code_of_conduct
